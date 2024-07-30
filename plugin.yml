@@ -1,0 +1,14 @@
+name: MsLoja
+version: 1.5
+author: yurirp4
+main: MsLoja.Main
+Description: MsLoja Um Plugin Para Seu Servidor 
+commands:
+  setloja:
+    description: use para Setar A Loja Do Servidor
+  setvip:
+    description: Use para Setar A Area Vip Do Servidor
+  vip:
+    description: Use para ir a Area Vip
+  loja:
+    description: Use para ir A Loja Do Servidor

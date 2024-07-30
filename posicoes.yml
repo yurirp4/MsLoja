@@ -1,0 +1,12 @@
+
+ loja:
+   x: 0
+   y: 0
+   z: 0
+ # para Setar a Loja use /setloja
+ lojavip:
+   x: 0
+   y: 0
+   z: 0
+   world: ''
+   # para Setar a Loja use /setvip

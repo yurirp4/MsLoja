@@ -1,0 +1,22 @@
+ #####################################################
+ # Permissao: vip.usar , setvip.usar , setloja.usar  #
+ # comandos : /loja  , /setvip , /setloja , /vip     #     
+ # Criador: yurirp4                                  #
+ # Skype: Filipe Silva amy                           #   
+ # Plugin: MsLoja Gratis                             #
+ # version: 1.5                                      #
+ # plugin 80% Editavel                               #
+ #####################################################
+
+No_Acess: '&cVoce Precisa Ser &7[&5Heroi&7] &c Ou Superior Para Usar Este Comando'
+  #Menssagen Da LojaVip
+  
+Menssagen_Normal: '&5Voce Foi A Loja'
+  #Menssagen Da Loja Padrão
+
+Menssagen_Vip: 
+  - ' '
+  - '&bSeja Bem Vindo A Loja Vip'
+  - ' '
+  # Mesangen Ao Ir a /vip
+  
